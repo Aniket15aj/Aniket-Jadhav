@@ -15,8 +15,10 @@ int main()
         }
     }
     if(count==0)
+    {
         printf("%d is a prime number.",n);
         printf("\n\n");
+    }
     else
         printf("%d is not a prime number.",n);
 
